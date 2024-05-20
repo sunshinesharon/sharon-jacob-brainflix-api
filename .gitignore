@@ -1,0 +1,5 @@
+node_modules
+
+# Do not ignore .env for BrainFlix
+# But this is what you would do in industry
+.env
